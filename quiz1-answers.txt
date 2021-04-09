@@ -1,0 +1,151 @@
+## Quiz #1: Chapters 1 to 3
+# Question 'ab': True or false: A single original Ethernet cable could be used to connect many devices
+ab=
+# Question 'ac': True or false: Switches can be interconnected to form larger networks
+ac=
+# Question 'ad': True or false: The original Wi-Fi standard was limited to 2Mbits per second
+ad=
+# Question 'ae': True or false: 5G networks offer higher speed and lower latency compared with earlier generations
+ae=
+# Question 'af': True or false: SOCK\_STREAM denotes a socket which is used to carry a stream of messages over the network
+af=
+# Question 'ag': True or false: The maximum length of an Ethernet is based on limiting the round-trip latency to around 51 micro seconds
+ag=
+# Question 'ah': True or false: Both sender and receiver must implement the same error detection algorithm
+ah=
+# Question 'ai': True or false: Bluetooth supports parking devices, i.e., un-pairing the device to allow another device to connect in its place
+ai=
+# Question 'aj': True or false: The Internet Architecture, like the OSI model, uses strict layering
+aj=
+# Question 'ak': True or false: The Sliding Window Protocol helps provide reliability in the face of packet loss, in-order reception of data and throttling of the sender's transmission rate
+ak=
+# Question 'al': True or false: Acknowledgements and timeouts are not an effective alternative to error correcting codes for recovering from transmission errors
+al=
+# Question 'am': True or false: Most widely used wireless links include only mobile devices
+am=
+# Question 'an': True or false: The virtual circuit identifier of incoming and outgoing packets for a given virtual circuit on a switch must match
+an=
+# Question 'ao': True or false: When a node wishes to transmit a frame, it requests the network adaptor to do this
+ao=
+# Question 'ap': True or false: Satellite communications typically use similar frequencies to terrestrial microwave communications
+ap=
+# Question 'aq': True or false: The maximum length of an Ethernet frame exists to limit the time required to detect a collision
+aq=
+# Question 'ar': True or false: The Internet Protocol error detection algorithm uses ones-complement addition
+ar=
+# Question 'as': True or false: Certain frequencies are reserved for specific uses, but only within certain geographical areas of each country to ensure that all frequencies are available for wireless communications in most locations
+as=
+# Question 'at': True or false: The peer-to-peer interface of a protocol is used to distribute the software that implements a given protocol
+at=
+# Question 'au': True or false: One advantage of Bluetooth is low power consumption
+au=
+# Question 'av': True or false: Collision between Ethernet frames results in a 96-bit ``runt frame''.
+av=
+# Question 'aw': True or false: In the Internet Architecture the application layer directly interfaces only to the transport layer, as the next layer down in the network stack.
+aw=
+# Question 'ax': True or false: Ethernet networks are not able to sense when multiple nodes transmit at the same time
+ax=
+# Question 'ay': True or false: State transition diagrams are similar to phase diagrams in their use in designing network protocols
+ay=
+# Question 'az': True or false: The application layer standardises common types of exchanges
+az=
+# Question 'ba': True or false: Wireless links transmit using electromagnetic signals, typically at radio, microwave or infra-red wavelengths
+ba=
+# Question 'bb': True or false: The longer the data being transmitted, the more additional bits are required in order to detect the same percentage of errors.
+bb=
+# Question 'bc': True or false: Ethernet is derived from the ALOHA packet radio network in Hawaii
+bc=
+# Question 'bd': True or false: Ethernet addresses belong to network adaptors, not to hosts.
+bd=
+# Question 'be': True or false: In the stop-and-wait protocol only one data frame can be pending acknowledgement at a time
+be=
+# Question 'bf': True or false: The hidden node problem is a significant problem for wireless networks
+bf=
+# Question 'bg': True or false: In an Ad-hoc wireless network the nodes must elect a master node to coordinate the network
+bg=
+# Question 'bh': True or false: Transmission time is the sum of the latency plus propagation time of a packet
+bh=
+# Question 'bi': True or false: The listen() function is called by a server each time it wishes to listen for a new connection
+bi=
+# Question 'bj': True or false: It takes double the one-link latency before a collision on an Ethernet network is detected
+bj=
+# Question 'bk': True or false: In 802.11, if a client receives a beacon, it does not need to send a probe frame before sending an access request
+bk=
+# Question 'bl': True or false: host-to-host connectivity is a major goal of computer networks
+bl=
+# Question 'bm': True or false: NRZI changes the signal every time a 0 or a 1 is encoded, making it easier to synchronise
+bm=
+# Question 'bn': True or false: The send() function is used to send data or a message over a socket
+bn=
+# Question 'bo': True or false: Wireless communications naturally supports point-to-multipoint communications
+bo=
+# Question 'bp': True or false: Every Ethernet frame must be at least 512 bytes long
+bp=
+# Question 'bq': True or false: 4B/5B encoding limits the number of consecutive 1s or 0s that are encoded over a link
+bq=
+# Question 'br': True or false: In 802.11, the use of probe frames is referred to active scanning
+br=
+# Question 'bs': True or false: CRCs are a common technique for correcting transmission errors
+bs=
+# Question 'bt': True or false: It is the role of the Network Provider to identify the characteristics of a system that make it easy to manage
+bt=
+# Question 'bu': True or false: video-conferencing connects broadband subscribers with the rest of the internet
+bu=
+# Question 'bv': True or false: The network device driver in an operating system implements the physical layer
+bv=
+# Question 'bw': True or false: Permanent virtual circuits require the installation of dedicated hardware, which must not be removed until the virtual circuit is deleted
+bw=
+# Question 'bx': True or false: When using the Sliding Window Protocol, the sender has to be willing to buffer up to SWS (Sliding Window Size) frames
+bx=
+# Question 'by': True or false: Switches examine the header of a packet to decide on which ports to forward the packet
+by=
+# Question 'bz': True or false: Virtual-circuits are a connection-oriented networking approach
+bz=
+# Question 'ca': True or false: The data link layer is above the network layer in the OSI network stack
+ca=
+# Question 'cb': True or false: An Ethernet repeater forwards signals in the analog domain
+cb=
+# Question 'cc': True or false: In 802.11, if both DS bits are set to 1, the third address field identifies the access point that first accepted the frame from the client
+cc=
+# Question 'cd': True or false: The 802.11 distribution system operates at layer 3 of the ISO architecture
+cd=
+# Question 'ce': True or false: Frequency hopping is one method of spread-spectrum transmission
+ce=
+# Question 'cf': True or false: When a frame error is detected, two approaches to recover from it are to resend the entire frame, or to use some error detection and correction algorithm to allow the receiver to reconstruct the message
+cf=
+# Question 'cg': True or false: Ethernet networks are permitted to have up to 1,024 hosts
+cg=
+# Question 'ch': True or false: Ethernet addresses are 6 bytes long
+ch=
+# Question 'ci': True or false: In 10BaseT, the T refers to Twisted-pair cable
+ci=
+# Question 'cj': True or false: Wi-Fi power management is the responsibility of the operating system, with Wi-Fi focusing on the media access control and security mechanisms
+cj=
+# Question 'ck': True or false: In 802.11, access points periodically send probe frames to identify any clients waiting to connect
+ck=
+# Question 'cl': True or false: PPP uses 0x3e as start-of-text character
+cl=
+# Question 'cm': True or false: HDLC relies on the checksum to detect all framing errors
+cm=
+# Question 'cn': True or false: The Sending Window Size refers to the number of unacknowledged frames that can be outstanding at any moment in time
+cn=
+# Question 'co': True or false: Direct Sequence transmission involves the transmission of n-bit chopping codes that divides the signal across a frequency band that is n times wider
+co=
+# Question 'cp': True or false: The exposed node problem occurs when a node can hear the transmission from multiple nodes that cannot hear each others transmissions, and thus they might all transmit at the same time, causing a collision
+cp=
+# Question 'cq': True or false: Signals placed on the Ethernet are directed to the intended receiver only, unless it is a broadcast frame
+cq=
+# Question 'cr': True or false: A layered network model can offer multiple different abstractions for one or more of the network layers
+cr=
+# Question 'cs': True or false: Network links are typically characterised by their speed, rather than by the medium that they use
+cs=
+# Question 'ct': True or false: For interactive network connections bandwidth is more important than latency
+ct=
+# Question 'cu': True or false: A logical channel is an application-to-application communication path
+cu=
+# Question 'cv': True or false: The maximum sequence number must be larger than double the Sending Window Size minus 1
+cv=
+# Question 'cw': True or false: Multiplexing uses multiple or additional plexi-glass cables to increase the capacity of a network
+cw=
+# Question 'cx': True or false: Ethernet uses centralised control to determine the order in which two adaptors can attempt to send frames, so as to minimise the probability of collision
+cx=
