@@ -141,28 +141,35 @@ END:ci
 # Question 'cj': Define a network layout that would be suitable for a Client-Server architecture}
 BEGIN:cj
 END:cj
-# Question 'ck': Define a network layout that would be suitable for a Peer-to-Peer architecture}
+# Question 'ck': Describe your network layout that would be suitable for a Client-Server architecture
 BEGIN:ck
 END:ck
+# Question 'cl': Define a network layout that would be suitable for a Peer-to-Peer architecture}
+BEGIN:cl
+END:cl
+# Question 'cm': Describe your peer-to-peer network topology.
+BEGIN:cm
+END:cm
 ## Write statements that are true or false for various lecture slides.
+# Question 'cn': Do you grant your following quiz questions to the public domain?
 cl=
-# Question 'cl': Write a false statement about the content of Slide 109 of Chapter 3
+# Question 'co': Write a false statement about the content of Slide 109 of Chapter 3
 cl=
-# Question 'cm': Write a false statement about the content of Slide 38 of Chapter 1
+# Question 'cp': Write a false statement about the content of Slide 38 of Chapter 1
 cl=
-# Question 'cn': Write a true statement about the content of Slide 5 of Chapter 1
+# Question 'cq': Write a true statement about the content of Slide 5 of Chapter 1
 cl=
-# Question 'co': Write a false statement about the content of Slide 30 of Chapter 3
+# Question 'cr': Write a false statement about the content of Slide 30 of Chapter 3
 cl=
-# Question 'cp': Write a true statement about the content of Slide 27 of Chapter 1
+# Question 'cs': Write a true statement about the content of Slide 27 of Chapter 1
 cl=
-# Question 'cq': Write a true statement about the content of Slide 17 of Chapter 2
+# Question 'ct': Write a true statement about the content of Slide 17 of Chapter 2
 cl=
-# Question 'cr': Write a false statement about the content of Slide 19 of Chapter 4
+# Question 'cu': Write a false statement about the content of Slide 19 of Chapter 4
 cl=
-# Question 'cs': Write a true statement about the content of Slide 87 of Chapter 2
+# Question 'cv': Write a true statement about the content of Slide 87 of Chapter 2
 cl=
-# Question 'ct': Write a false statement about the content of Slide 87 of Chapter 3
+# Question 'cw': Write a false statement about the content of Slide 87 of Chapter 3
 cl=
-# Question 'cu': Write a true statement about the content of Slide 41 of Chapter 2
+# Question 'cx': Write a true statement about the content of Slide 41 of Chapter 2
 cl=
