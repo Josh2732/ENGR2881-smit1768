@@ -1,0 +1,151 @@
+## Quiz #2: Chapters 4 to 6
+# Question 'ab': True or false: Routers use a Congestion Window to inform TCP connections how much data they can transmit at a given time
+ab=
+# Question 'ac': True or false: A multicast system requires each sender to maintain the list of members of the multicast group, as members join and leave
+ac=
+# Question 'ad': True or false: The Karn/Partridge algorithm does not sample RTT when retransmitting a segment
+ad=
+# Question 'ae': True or false: IPv6 includes specific provision for mobility
+ae=
+# Question 'af': True or false: Source-based Congestion Avoidance can also use other algorithms that rely on more than just the RTT, such as the advertised window size
+af=
+# Question 'ag': True or false: TCP provides reliable byte stream communications to support end-to-end communications
+ag=
+# Question 'ah': True or false: Multi-Protocol Label Switching is a hybrid of virtual circuits and datagram based networks
+ah=
+# Question 'ai': True or false: Border Gateway Protocol speakers can cancel previously advertised paths
+ai=
+# Question 'aj': True or false: Transport protocols typically allow the receiver to apply flow control
+aj=
+# Question 'ak': True or false: Flowspec can still result in delayed delivery of packets if multiple variable bit-rate services are active
+ak=
+# Question 'al': True or false: Some real-time applications can tolerate lost packets better than others
+al=
+# Question 'am': True or false: The congestion control protocol of TCP communicates the congestion window by setting the advertised window and flags in the TCP header to indicate that the value is for the congestion window
+am=
+# Question 'an': True or false: Real-time network applications require accurate network time synchronisation, so that latency can be minimised
+an=
+# Question 'ao': True or false: Source Specific Multicast offers improved one-to-many multicast support for IP
+ao=
+# Question 'ap': True or false: Source-based Congestion Avoidance watch for some sign of growing queue lengths in the network path
+ap=
+# Question 'aq': True or false: The UDP protocol demultiplexes packets arriving at an application into separate queues based on which host they came from
+aq=
+# Question 'ar': True or false: The original TCP retransmission timeout was based on double the estimated RTT of the network path
+ar=
+# Question 'as': True or false: BGP solves the problem of route advertisement trust between Autonomous Systems
+as=
+# Question 'at': True or false: Autonomous System numbers are 32-bit numbers that are automatically generated from the lowest MAC address of the Autonomous System's border gateway routers, ensuring that they are globally unique
+at=
+# Question 'au': True or false: Flowspec is the definition language for defining network flows on routers
+au=
+# Question 'av': True or false: Soft-state of network flows is required to help routers handle traffic from the flow
+av=
+# Question 'aw': True or false: The TCP source port field is at offset 0 in the TCP header
+aw=
+# Question 'ax': True or false: The Jacobson/Karels algorithm simplifies the TCP retransmission delay, by tracking only the variance in RTT, rather than the RTT itself
+ax=
+# Question 'ay': True or false: Congestion control and resource allocation are two challenges that must each be separately solved by each network
+ay=
+# Question 'az': True or false: Multicast routing is the process by which multicast distribution trees are determined
+az=
+# Question 'ba': True or false: Flow control exists to prevent senders from overrunning the capacity of receivers
+ba=
+# Question 'bb': True or false: The Karn/Partridge algorithm works well only when the variance in RTT times is relatively small
+bb=
+# Question 'bc': True or false: When the URG flag is set in a TCP packet, the urgent field points to the start of the urgent data in the packet
+bc=
+# Question 'bd': True or false: Rate-based networking approaches seek to limit data transmission to a particular data rate, based on an feed-back of the data rate that the network and/or receiver can handle.
+bd=
+# Question 'be': True or false: The TCP checksum field is calculated over data from only the TCP and IP layer headers
+be=
+# Question 'bf': True or false: The packets exchanged by TCP peers are called frames
+bf=
+# Question 'bg': True or false: A network flow is similar to a channel, but is visible to a given router, rather than being an end-to-end abstraction
+bg=
+# Question 'bh': True or false: Source-based Congestion Avoidance reduces the congestion window slightly whenever the RTT increases above the average RTT
+bh=
+# Question 'bi': True or false: "Integrated Services" is a fine-grained quality-of-service approach
+bi=
+# Question 'bj': True or false: Network flows are streams of related packets that flow through a given router 
+bj=
+# Question 'bk': True or false: Mobile IP uses home agents, foreign addresses and foreign agents to facilitate mobility
+bk=
+# Question 'bl': True or false: The UDP header contains source address, destination address, checksum and length fields
+bl=
+# Question 'bm': True or false: Transport protocols often have to contend with electromagnetic interference flipping bits in packets
+bm=
+# Question 'bn': True or false: Mobile IP avoids the need for tunnels or care-of addresses to deliver packets to mobile nodes
+bn=
+# Question 'bo': True or false: Drop policy is another name for the queuing scheduling policy, i.e., deciding which packets get sent and which get dropped when congestion occurs
+bo=
+# Question 'bp': True or false: As a byte-oriented protocol, TCP sends one byte at a time
+bp=
+# Question 'bq': True or false: TCP offers more services than UDP
+bq=
+# Question 'br': True or false: Multiple priority queues can be used to make FIFO queuing more flexible
+br=
+# Question 'bs': True or false: Whenever a congestion window's worth of data has been acknowledged, the TCP congestion protcol will add one packet's worth of bytes to the congestion window size
+bs=
+# Question 'bt': True or false: Transit traffic is traffic that transits through an Autonomous System to reach a destination in another Autonomous System
+bt=
+# Question 'bu': True or false: Border Gateway Protocol is the only inter-domain routing protocol
+bu=
+# Question 'bv': True or false: Naivelly increasing the throughput of a network by increasing the number of packets that can be in the network at any point in time can cause the delay of the network to increase
+bv=
+# Question 'bw': True or false: Optimality of routes is less important than reachability for inter-domain routing
+bw=
+# Question 'bx': True or false: Multicast in IP is structured as a many-to-many system
+bx=
+# Question 'by': True or false: Merriton's Algorithm is typically used to solve the fairness of resource allocation in networks
+by=
+# Question 'bz': True or false: One approach to congestion control is to allow sources to send as much data as they want, disconnecting sources when congestion occurs, until the congestion abates
+bz=
+# Question 'ca': True or false: Network resource allocation is either one of router-centric or host-centric
+ca=
+# Question 'cb': True or false: Route Propagation refers to the movement of user data over existing routes
+cb=
+# Question 'cc': True or false: Distance-Vector Multicast forwards received multicast packets on all outgoing links, but only if the packets arrive via the correct router
+cc=
+# Question 'cd': True or false: "Integrated Services" is a quality-of-service scheme for packet switched IP networks. It does not support reservations
+cd=
+# Question 'ce': True or false: An example of many-to-many multicast would be radio station broadcast
+ce=
+# Question 'cf': True or false: If the TCP Slow Start algorithm is triggered due to sliding window exhaustion, the Slow Start procedure stops once the previous peak congestion window size is reached
+cf=
+# Question 'cg': True or false: The TCP Slow Start algorithm is triggered if the TCP sliding window is exhausted, and a collected ACK advances the sliding window, thus allowing data to again begin to be sent
+cg=
+# Question 'ch': True or false: It is up to an application using a TCP implementation to decide when it has enough bytes to send a segment
+ch=
+# Question 'ci': True or false: When too many packets are contending for the same link, queues overflow and packets get dropped, resulting in congestion
+ci=
+# Question 'cj': True or false: TCP practices Congestion Control rather than Congestion Avoidance
+cj=
+# Question 'ck': True or false: Border Gateway Protocol combines the strengths of distance vector and link-state routing protocols
+ck=
+# Question 'cl': True or false: Border Gateways exchange route and path information between Autonomous Systems
+cl=
+# Question 'cm': True or false: The power of a network is often expresses as the delay divided by the throughput
+cm=
+# Question 'cn': True or false: A significant routing problem is the exhaustion of IPv4 address space
+cn=
+# Question 'co': True or false: Randomised Early Detection (RED) drops, with a fixed probability, each arriving packet
+co=
+# Question 'cp': True or false: Various queuing disciplines can be used in network elements to manage or respond to potential network congestion
+cp=
+# Question 'cq': True or false: UDP is a simple multiplexer that allows the packets from multiple hosts to be carried over the same link
+cq=
+# Question 'cr': True or false: IPv6 addresses are allocated on a provider and geographic basis
+cr=
+# Question 'cs': True or false: The advertised window of a TCP connection should ideally be at least as large as the bandwidth-delay product of the network path
+cs=
+# Question 'ct': True or false: Unicast forwarding table collectively specify a set of paths
+ct=
+# Question 'cu': True or false: Flowspec can use a Token Bucket Filter to enforce average bandwidth allocations, while still allowing for brief bursts of higher data rates
+cu=
+# Question 'cv': True or false: The TSpec of a flow is easier to define correctly than the RSpec
+cv=
+# Question 'cw': True or false: The peak power of a network typically occurs a little below the maximum load the network can handle
+cw=
+# Question 'cx': True or false: Internet Group Management Protcol (IGMP) is used to signal the intent to join or leave a multicast group on IPv4
+cx=
